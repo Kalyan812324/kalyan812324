@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Suchandra Etti</h1>
+<h1 align="center">👋 Hi, I'm Kurupudi kalyan </h1>
 <h3 align="center">A passionate Frontend and Application Developer from India</h3>
 
 <p align="center">
