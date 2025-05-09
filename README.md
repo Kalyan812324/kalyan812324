@@ -16,7 +16,7 @@
 - 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/Kalyan812324/kalyan812324)
 - 💬 **Ask me about:** Flutter, Java, Python
 - 📫 **How to reach me:** Just mail me at  [kurupudikalyan128@gmail.com]  or  [Here](https://linktr.ee/snvvs369)  
-- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1uZvuu9LpcEp3XKytyyDxU8h2DtaYHbMC/view?usp=drive_link)
+- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/11LcaGwPbQJ_wtChV2B2vzuqGQSIlHrpX/view?usp=sharing)
 - ⚡ **Fun Fact:** I think I am funny!
 
 ---
@@ -56,43 +56,6 @@
   <a href="https://www.geeksforgeeks.org/user/user_snvvsuchandra369/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
-  <a href="https://profiles.topcoder.com/suchandra369" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22353817/suchandra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-    <a href="https://discordapp.com/users/1024284026489544725" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/snvvsuchandraetti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/suchandra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.io/u/suchandra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/snvvsuachandraetti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/suchandra369" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/shivashiva187" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
-  </a>
-  <a href="https://hashnode.com/@suchandra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@snvvs369" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@snvvs369/videos" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-
 </div>
 
 ---
