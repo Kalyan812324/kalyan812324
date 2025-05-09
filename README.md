@@ -9,14 +9,14 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 **Currently working on:** [College Application for Students](https://play.google.com/store/apps/details?id=com.technicalhub.hoot&hl=en-US)
+- 🔭 **Currently working on:** [College Application for Students]
 - 🌱 **Currently learning:** Google Flutter, Node.js, Express.js, MongoDB
 - 👯 **Looking to collaborate on:** E-Commerce Applications
 - 🤝 **Need help with:** Cloud Computing and IoT Projects
-- 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/SnvvSuchandraEtti)
+- 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/Kalyan812324/kalyan812324)
 - 💬 **Ask me about:** Flutter, Java, Python
-- 📫 **How to reach me:** Just mail me at  [snvvs369@gmail.com](snvvs369@gmail.com)  or  [Here](https://linktr.ee/snvvs369)  
-- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1FjYTd5Va84wmQcAx1R5VXa1S0jAf2xyF/view)
+- 📫 **How to reach me:** Just mail me at  [kurupudikalyan128@gmail.com]  or  [Here](https://linktr.ee/snvvs369)  
+- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1uZvuu9LpcEp3XKytyyDxU8h2DtaYHbMC/view?usp=drive_link)
 - ⚡ **Fun Fact:** I think I am funny!
 
 ---
@@ -178,7 +178,7 @@
 ---
 
 ### 🚀 Projects
-- [College Application for Students](https://play.google.com/store/apps/details?id=com.technicalhub.hoot&hl=en-US)
-- [E-Commerce Application](https://github.com/SnvvSuchandraEtti/ShopNest)
-- [Clubs Management Application](https://github.com/SnvvSuchandraEtti/ACLUB)
+- [College Application for Students]
+- [E-Commerce Application](https://github.com/Kalyan812324/ShopNest)
+- [Clubs Management Application](https://github.com/Kalyan812324/ACLUB)
 
