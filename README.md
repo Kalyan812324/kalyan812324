@@ -9,51 +9,46 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 **Currently working on:** [College Application for Students]
-- 🌱 **Currently learning:** Google Flutter, Node.js, Express.js, MongoDB
-- 👯 **Looking to collaborate on:** E-Commerce Applications
+- 🔭 **Currently working on:** [PaddySmart Application for Farmers]
+- 🌱 **Currently learning:** React, Node.js, Express.js, MongoDB
+- 👯 **Looking to collaborate on:** E-Commerce Applications , Fronend Projects
 - 🤝 **Need help with:** Cloud Computing and IoT Projects
 - 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/Kalyan812324/kalyan812324)
-- 💬 **Ask me about:** Flutter, Java, Python
-- 📫 **How to reach me:** Just mail me at  [kurupudikalyan128@gmail.com]  or  [Here](https://linktr.ee/snvvs369)  
+- 💬 **Ask me about:** Frontend, DataAnalytics, Python
+- 📫 **How to reach me:** Just mail me at  [kurupudikalyan128@gmail.com]
 - 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/11LcaGwPbQJ_wtChV2B2vzuqGQSIlHrpX/view?usp=sharing)
-- ⚡ **Fun Fact:** I think I am funny!
+- ⚡ **Fun Fact:** I'm doing repos like very funny!
 
 ---
 
 ### 🌐 Connect with Me
 <div align="center">
-
-
-
-  <a href="https://twitter.com/snvvs369" target="blank">
+ 
+  <a href="https://x.com/KurupudiK54573?t=w22TyhyVv-R82VOmnHS4hA&s=09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/suchandra-etti" target="blank">
+  <a href="https://www.linkedin.com/in/kalyan-kurupudi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-    <a href="https://www.facebook.com/profile.php?id=100070206241754" target="blank">
+    <a href="https://www.facebook.com/kalyan.kurupudi.96" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/s.u.c.h.a.n.d.r.a" target="blank">
+  <a href="https://www.instagram.com/Kalyank143/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-    <a href="https://www.codechef.com/users/suchandra369" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/22a91a0570" target="blank">
+  <a href="https://www.hackerrank.com/profile/kudupudikalyan11" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/snvvs369" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  <a href="https://www.codechef.com/users/kalyank143" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="Codechef" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/snvvsuchandraetti/" target="blank">
+  <a href="https://leetcode.com/u/kCLru6HZfb/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.hackerearth.com/@snvvs369/" target="blank">
+  <a href="https://www.hackerearth.com/@kurupudikalyan128/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/user_snvvsuchandra369/" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/kurupudikl/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </div>
@@ -81,19 +76,13 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36" />
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="36" height="36" />
-  </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36" />
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <a href="https://Excel.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -105,12 +94,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36" />
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36" />
   </a>
@@ -119,9 +102,6 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36" />
@@ -132,9 +112,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36" />
-  </a>
 </p>
 </div>
 
@@ -144,4 +121,4 @@
 - [College Application for Students]
 - [E-Commerce Application](https://github.com/Kalyan812324/ShopNest)
 - [Clubs Management Application](https://github.com/Kalyan812324/ACLUB)
-
+- [To Do List App] (https://github.com/Kalyan812324/todolist app).
