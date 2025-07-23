@@ -1,5 +1,11 @@
 <h1 align="center">👋 Hi, I'm Kurupudi kalyan </h1>
-<h3 align="center">A passionate Frontend Developer and Data Analyst  from India</h3>
+<h3 align="center">👩‍💻 Frontend Dev | 📈 Data Analyst | 🇮🇳 India
+
+✨ Turning ideas into interactive UIs  
+📊 Finding patterns, building insights  
+🛠️ Tech stack: React, Tailwind, JS, Python, Pandas, Power BI  
+🚀 Building beautiful, fast, and data-driven apps!
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-blue" alt="Frontend Developer Badge">
@@ -99,7 +105,6 @@
 ---
 
 ### 🚀 Projects
-- [College Application for Students]
-- [
-- [Clubs Management Application](https://github.com/Kalyan812324/ACLUB)
+- [Agrosight Project for Farmers] (https://github.com/Kalyan812324/farm-smart-forecasts)
+- [Loan Calculator for Farmers] (https://github.com/Kalyan812324/Farmer-Loan-Calculator)
 - [To Do List App] (https://github.com/Kalyan812324/todolist app).
